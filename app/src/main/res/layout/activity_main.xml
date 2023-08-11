@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/play"
+        android:layout_width="158dp"
+        android:layout_height="48dp"
+        android:layout_centerInParent="true"
+        android:backgroundTint="#12FF71"
+        android:elevation="4dp"
+        android:shadowColor="@color/black"
+        android:strokeWidth="6"
+        android:strokeColor="#F50D0D"
+        android:text="@string/play"
+        android:textColor="#F50D0D" />
+
+    <Button
+        android:id="@+id/pause"
+        android:layout_width="158dp"
+        android:layout_height="48dp"
+        android:layout_below="@+id/play"
+        android:backgroundTint="#F50D0D"
+        android:textColor="#12FF71"
+        android:elevation="4dp"
+        android:strokeWidth="6"
+        android:strokeColor="#F50D0D"
+        android:text="@string/pause"
+        android:shadowColor="@color/black"
+        android:layout_marginStart="127dp"
+        />
+
+
+</RelativeLayout>

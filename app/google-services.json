@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719751468422",
+    "project_id": "dynamicaudioplayer-divya",
+    "storage_bucket": "dynamicaudioplayer-divya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719751468422:android:ebc84cf2fc2fc747e94807",
+        "android_client_info": {
+          "package_name": "com.divya.i1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719751468422-uuh08usdvuu6lq13291mr20lo7p1kqa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACBRS9Y6tXdD6_S6yfykw_R7BkTp4jIDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719751468422-uuh08usdvuu6lq13291mr20lo7p1kqa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
